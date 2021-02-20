@@ -1,2 +1,4 @@
 # 365
-Private
+N
+
+Personal
