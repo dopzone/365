@@ -139,5 +139,3 @@ echo "   - Telegram                : t.me/Z0NEX"  | tee -a log-install.txt
 echo ""
 echo " Reboot in 5 second"
 sleep 5
-rm -f setup.sh
-reboot
